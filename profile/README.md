@@ -9,4 +9,4 @@ Bitaris is a decentralized physical infrastructure network (DePIN) and L2 rollup
 3. **dasOS:** A spatial, 3D operating system bridging human operators with their physical orbital and terrestrial hardware.
 
 ## Quick Links
-- [Waitlist: The Genesis 21](https://bitaris.systems)
+- [Waitlist: The Genesis 42](https://bitaris.systems)
