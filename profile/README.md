@@ -10,5 +10,4 @@ Bitaris is a decentralized physical infrastructure network (DePIN) and L2 rollup
 
 ## Quick Links
 - [Waitlist: The Genesis 21](https://bitaris.systems)
-- [Axiom Firmware (Zephyr RTOS)](/bitaris)
 - [Smart Contracts (Arbitrum/Solidity)](/blocks)
