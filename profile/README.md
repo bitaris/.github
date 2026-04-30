@@ -1,12 +1,17 @@
-# Bitaris Protocol v2.0
+# Bitaris Protocol
 **Infrastructure for a Type III Civilization.**
 
-Bitaris is a decentralized physical infrastructure network (DePIN) and L2 rollup designed to tokenize, route, and verify global energy capture and compute. 
+Bitaris is a Decentralized Physical Infrastructure Network (DePIN) and L2 rollup 
+designed to tokenize, route, and verify global energy capture and compute.
 
 ## The Core Triad
-1. **The Axiom ASIC:** A proprietary, enterprise-grade hardware node that measures physical solar energy, signs cryptographic proofs (Proof-of-Energy), and utilizes excess compute to validate the network.
-2. **The `blocks` Network:** An Arbitrum Orbit L2 rollup. It processes physical metrics into three distinct cryptographic assets: `$EW` (Energy), `$GOV` (Infrastructure Equity), and `$SOV` (Stable Compute Yield).
-3. **dasOS:** A spatial, 3D operating system bridging human operators with their physical orbital and terrestrial hardware.
+1. **Axiom ASIC:** Proprietary hardware signing physical energy metrics via PQC (Post-Quantum Cryptography).
+2. **blocks L2:** An Arbitrum-based rollup processing $EW (Energy), $GOV (Governance), and $SOV (Sovereign Yield).
+3. **dasOS:** A spatial, interactive operating system for hardware-human synchronization.
 
-## Quick Links
-- [Waitlist: The Genesis 42](https://bitaris.systems)
+## Genesis 42 Allocation
+We are currently accepting allocation requests for the first 42 Genesis Nodes.
+- 21 Solar Nodes (Proof of Energy)
+- 21 Compute Nodes (Proof of Contribution)
+
+[Join the Waitlist](https://bitaris.systems)
